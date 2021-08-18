@@ -11,4 +11,4 @@ const savedUserName = 'suhagMokta';
 // console.log(savedUserName.toUpperCase());
 if (inputedUserName.toLowerCase == savedUserName.toLowerCase) {
     console.log('User Exists');
-}
+};
